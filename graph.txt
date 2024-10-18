@@ -1,0 +1,24 @@
+10
+Mumbai
+Delhi
+Bangalore
+Kolkata
+Chennai
+Hyderabad
+Pune
+Ahmedabad
+Jaipur
+Lucknow
+12
+Mumbai Pune 150
+Mumbai Ahmedabad 520
+Delhi Jaipur 280
+Delhi Lucknow 550
+Bangalore Chennai 350
+Bangalore Hyderabad 570
+Kolkata Chennai 600
+Hyderabad Pune 560
+Chennai Kolkata 680
+Ahmedabad Jaipur 650
+Jaipur Lucknow 500
+Delhi Kolkata 1500
